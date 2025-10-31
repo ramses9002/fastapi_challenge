@@ -1,0 +1,458 @@
+2025-10-29 22:07:57,888 - INFO - GET /docs completed in 0.0002s
+2025-10-29 22:07:57,904 - INFO - 127.0.0.1:4609 - "GET /docs HTTP/1.1" 200
+2025-10-29 22:07:58,042 - INFO - GET /openapi.json completed in 0.0151s
+2025-10-29 22:07:58,044 - INFO - 127.0.0.1:4611 - "GET /openapi.json HTTP/1.1" 200
+2025-10-29 22:08:29,160 - INFO - POST /auth/login completed in 0.2991s
+2025-10-29 22:08:29,168 - INFO - 127.0.0.1:5384 - "POST /auth/login HTTP/1.1" 200
+2025-10-29 22:09:06,546 - INFO - GET /users/all completed in 0.0069s
+2025-10-29 22:09:06,548 - INFO - 127.0.0.1:11635 - "GET /users/all HTTP/1.1" 200
+2025-10-29 22:49:16,699 - INFO - GET /docs completed in 0.0002s
+2025-10-29 22:49:16,705 - INFO - 127.0.0.1:2626 - "GET /docs HTTP/1.1" 200
+2025-10-29 22:49:16,838 - INFO - GET /openapi.json completed in 0.0158s
+2025-10-29 22:49:16,841 - INFO - 127.0.0.1:2627 - "GET /openapi.json HTTP/1.1" 200
+2025-10-29 22:50:04,838 - INFO - POST /auth/login completed in 0.1937s
+2025-10-29 22:50:04,850 - INFO - 127.0.0.1:2664 - "POST /auth/login HTTP/1.1" 200
+2025-10-29 22:50:41,053 - INFO - POST /users/create completed in 0.0012s
+2025-10-29 22:50:41,059 - INFO - 127.0.0.1:2701 - "POST /users/create HTTP/1.1" 403
+2025-10-29 22:51:04,354 - INFO - POST /users/create completed in 0.1239s
+2025-10-29 22:51:04,359 - INFO - 127.0.0.1:2718 - "POST /users/create HTTP/1.1" 200
+2025-10-29 22:51:12,402 - INFO - POST /users/create completed in 0.0064s
+2025-10-29 22:51:12,439 - INFO - 127.0.0.1:2729 - "POST /users/create HTTP/1.1" 422
+2025-10-29 22:51:27,168 - INFO - GET /users/all completed in 0.0063s
+2025-10-29 22:51:27,171 - INFO - 127.0.0.1:2741 - "GET /users/all?skip=0&limit=10 HTTP/1.1" 200
+2025-10-29 22:52:16,083 - INFO - POST /users/get completed in 0.0042s
+2025-10-29 22:52:16,085 - INFO - 127.0.0.1:2781 - "POST /users/get HTTP/1.1" 200
+2025-10-29 22:52:22,102 - INFO - POST /users/get completed in 0.0061s
+2025-10-29 22:52:22,104 - INFO - 127.0.0.1:2787 - "POST /users/get HTTP/1.1" 200
+2025-10-29 22:52:36,398 - INFO - POST /users/get completed in 0.0045s
+2025-10-29 22:52:36,400 - INFO - 127.0.0.1:2799 - "POST /users/get HTTP/1.1" 200
+2025-10-29 22:53:00,151 - INFO - POST /users/update completed in 0.0044s
+2025-10-29 22:53:00,153 - INFO - 127.0.0.1:2815 - "POST /users/update HTTP/1.1" 200
+2025-10-29 22:53:08,209 - INFO - POST /users/update completed in 0.0160s
+2025-10-29 22:53:08,211 - INFO - 127.0.0.1:2822 - "POST /users/update HTTP/1.1" 200
+2025-10-29 22:53:14,088 - INFO - GET /users/all completed in 0.0053s
+2025-10-29 22:53:14,089 - INFO - 127.0.0.1:2827 - "GET /users/all?skip=0&limit=10 HTTP/1.1" 200
+2025-10-30 14:13:53,287 - INFO - GET /docs completed in 0.0005s
+2025-10-30 14:13:53,303 - INFO - 127.0.0.1:9524 - "GET /docs HTTP/1.1" 200
+2025-10-30 14:13:53,434 - INFO - GET /openapi.json completed in 0.0330s
+2025-10-30 14:13:53,437 - INFO - 127.0.0.1:9528 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 14:14:40,192 - INFO - GET /docs completed in 0.0003s
+2025-10-30 14:14:40,199 - INFO - 127.0.0.1:9588 - "GET /docs HTTP/1.1" 200
+2025-10-30 14:14:40,305 - INFO - GET /openapi.json completed in 0.0173s
+2025-10-30 14:14:40,308 - INFO - 127.0.0.1:9590 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 14:16:39,948 - INFO - POST /auth/login completed in 0.0873s
+2025-10-30 14:16:39,951 - INFO - 127.0.0.1:7903 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 14:16:50,275 - INFO - POST /auth/login completed in 0.1117s
+2025-10-30 14:16:50,294 - INFO - 127.0.0.1:7914 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 14:18:09,801 - INFO - GET /users/all completed in 0.0162s
+2025-10-30 14:18:09,825 - INFO - 127.0.0.1:8031 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:18:57,441 - INFO - GET /users/all completed in 0.0130s
+2025-10-30 14:18:57,450 - INFO - 127.0.0.1:8083 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:20:18,144 - INFO - POST /auth/register completed in 0.0031s
+2025-10-30 14:20:18,160 - INFO - 127.0.0.1:12034 - "POST /auth/register HTTP/1.1" 422
+2025-10-30 14:29:39,759 - INFO - POST /auth/login completed in 0.0036s
+2025-10-30 14:29:39,762 - INFO - 127.0.0.1:12768 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 14:30:10,434 - INFO - POST /auth/register completed in 0.1070s
+2025-10-30 14:30:10,438 - INFO - 127.0.0.1:12788 - "POST /auth/register HTTP/1.1" 200
+2025-10-30 14:30:35,678 - INFO - POST /auth/login completed in 0.1194s
+2025-10-30 14:30:35,691 - INFO - 127.0.0.1:12830 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 14:30:41,260 - INFO - POST /auth/login completed in 0.0891s
+2025-10-30 14:30:41,263 - INFO - 127.0.0.1:12847 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 14:30:42,144 - INFO - POST /auth/login completed in 0.0897s
+2025-10-30 14:30:42,152 - INFO - 127.0.0.1:12847 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 14:31:08,400 - INFO - POST /auth/refresh completed in 0.0004s
+2025-10-30 14:31:08,405 - INFO - 127.0.0.1:12900 - "POST /auth/refresh HTTP/1.1" 200
+2025-10-30 14:31:14,779 - INFO - POST /auth/refresh completed in 0.0006s
+2025-10-30 14:31:14,783 - INFO - 127.0.0.1:12918 - "POST /auth/refresh HTTP/1.1" 200
+2025-10-30 14:31:41,394 - INFO - GET /users/all completed in 0.0056s
+2025-10-30 14:31:41,399 - INFO - 127.0.0.1:12951 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:32:13,848 - INFO - POST /users/create completed in 0.0103s
+2025-10-30 14:32:13,858 - INFO - 127.0.0.1:12981 - "POST /users/create HTTP/1.1" 200
+2025-10-30 14:32:20,513 - INFO - POST /users/create completed in 0.1135s
+2025-10-30 14:32:20,517 - INFO - 127.0.0.1:13008 - "POST /users/create HTTP/1.1" 200
+2025-10-30 14:32:35,199 - INFO - POST /users/create completed in 0.1083s
+2025-10-30 14:32:35,207 - INFO - 127.0.0.1:13064 - "POST /users/create HTTP/1.1" 200
+2025-10-30 14:32:38,845 - INFO - GET /users/all completed in 0.0057s
+2025-10-30 14:32:38,847 - INFO - 127.0.0.1:13064 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:32:49,084 - INFO - POST /users/get completed in 0.0047s
+2025-10-30 14:32:49,089 - INFO - 127.0.0.1:13081 - "POST /users/get HTTP/1.1" 200
+2025-10-30 14:32:56,065 - INFO - POST /users/get completed in 0.0090s
+2025-10-30 14:32:56,069 - INFO - 127.0.0.1:13090 - "POST /users/get HTTP/1.1" 200
+2025-10-30 14:32:59,451 - INFO - POST /users/get completed in 0.0067s
+2025-10-30 14:32:59,454 - INFO - 127.0.0.1:13090 - "POST /users/get HTTP/1.1" 200
+2025-10-30 14:33:03,611 - INFO - POST /users/get completed in 0.0043s
+2025-10-30 14:33:03,615 - INFO - 127.0.0.1:13090 - "POST /users/get HTTP/1.1" 200
+2025-10-30 14:33:33,227 - INFO - POST /users/update completed in 0.0166s
+2025-10-30 14:33:33,231 - INFO - 127.0.0.1:13121 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:33:39,219 - INFO - POST /users/update completed in 0.0048s
+2025-10-30 14:33:39,229 - INFO - 127.0.0.1:13128 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:33:44,439 - INFO - GET /users/all completed in 0.0048s
+2025-10-30 14:33:44,441 - INFO - 127.0.0.1:13135 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:33:59,813 - INFO - POST /users/update completed in 0.0049s
+2025-10-30 14:33:59,816 - INFO - 127.0.0.1:13148 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:34:08,766 - INFO - POST /users/update completed in 0.0096s
+2025-10-30 14:34:08,772 - INFO - 127.0.0.1:13165 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:34:21,609 - INFO - POST /users/update completed in 0.0122s
+2025-10-30 14:34:21,611 - INFO - 127.0.0.1:13175 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:34:29,252 - INFO - POST /users/update completed in 0.0248s
+2025-10-30 14:34:29,262 - INFO - 127.0.0.1:13183 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:34:44,652 - INFO - POST /users/update completed in 0.0181s
+2025-10-30 14:34:44,656 - INFO - 127.0.0.1:13209 - "POST /users/update HTTP/1.1" 200
+2025-10-30 14:35:04,454 - INFO - GET /users/all completed in 0.0047s
+2025-10-30 14:35:04,459 - INFO - 127.0.0.1:13224 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:36:02,033 - INFO - POST /users/delete completed in 0.0043s
+2025-10-30 14:36:02,039 - INFO - 127.0.0.1:13265 - "POST /users/delete HTTP/1.1" 200
+2025-10-30 14:36:10,265 - INFO - POST /users/create completed in 0.0051s
+2025-10-30 14:36:10,269 - INFO - 127.0.0.1:13274 - "POST /users/create HTTP/1.1" 200
+2025-10-30 14:36:14,275 - INFO - POST /users/create completed in 0.0037s
+2025-10-30 14:36:14,279 - INFO - 127.0.0.1:13274 - "POST /users/create HTTP/1.1" 422
+2025-10-30 14:36:32,346 - INFO - POST /users/delete completed in 0.0098s
+2025-10-30 14:36:32,350 - INFO - 127.0.0.1:13296 - "POST /users/delete HTTP/1.1" 200
+2025-10-30 14:36:35,986 - INFO - GET /users/all completed in 0.0054s
+2025-10-30 14:36:35,989 - INFO - 127.0.0.1:13296 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:39:57,576 - INFO - GET /posts/all completed in 0.0067s
+2025-10-30 14:39:57,580 - INFO - 127.0.0.1:1119 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:42:23,929 - INFO - POST /posts/create completed in 0.0062s
+2025-10-30 14:42:23,933 - INFO - 127.0.0.1:1247 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 14:42:33,459 - INFO - POST /posts/create completed in 0.0197s
+2025-10-30 14:42:33,461 - INFO - 127.0.0.1:1259 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 14:42:37,833 - INFO - POST /posts/create completed in 0.0148s
+2025-10-30 14:42:37,835 - INFO - 127.0.0.1:1259 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 14:43:15,666 - INFO - GET /posts/all completed in 0.0426s
+2025-10-30 14:43:15,674 - INFO - 127.0.0.1:1294 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:43:53,811 - INFO - GET /posts/all completed in 0.0095s
+2025-10-30 14:43:53,815 - INFO - 127.0.0.1:1323 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:43:57,274 - INFO - GET /posts/all completed in 0.0064s
+2025-10-30 14:43:57,286 - INFO - 127.0.0.1:1323 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:44:25,241 - INFO - GET /posts/all completed in 0.0102s
+2025-10-30 14:44:25,245 - INFO - 127.0.0.1:1345 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:44:33,634 - INFO - GET /posts/all completed in 0.0066s
+2025-10-30 14:44:33,636 - INFO - 127.0.0.1:1355 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:45:01,504 - INFO - POST /posts/create completed in 0.0096s
+2025-10-30 14:45:01,508 - INFO - 127.0.0.1:1374 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 14:45:03,752 - INFO - POST /posts/create completed in 0.0305s
+2025-10-30 14:45:03,760 - INFO - 127.0.0.1:1374 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 14:45:06,883 - INFO - GET /posts/all completed in 0.0190s
+2025-10-30 14:45:06,891 - INFO - 127.0.0.1:1374 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 14:45:15,249 - INFO - GET /users/all completed in 0.0066s
+2025-10-30 14:45:15,251 - INFO - 127.0.0.1:1385 - "GET /users/all HTTP/1.1" 200
+2025-10-30 14:47:51,873 - INFO - POST /posts/create completed in 0.0889s
+2025-10-30 14:47:51,878 - INFO - 127.0.0.1:4616 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:02:42,969 - INFO - GET /docs completed in 0.0002s
+2025-10-30 15:02:42,975 - INFO - 127.0.0.1:8792 - "GET /docs HTTP/1.1" 200
+2025-10-30 15:02:43,082 - INFO - GET /openapi.json completed in 0.0168s
+2025-10-30 15:02:43,084 - INFO - 127.0.0.1:8796 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 15:03:42,718 - INFO - GET /posts/all completed in 0.1028s
+2025-10-30 15:03:42,720 - INFO - 127.0.0.1:8862 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 15:03:44,782 - INFO - GET /users/all completed in 0.0055s
+2025-10-30 15:03:44,814 - INFO - 127.0.0.1:8862 - "GET /users/all HTTP/1.1" 200
+2025-10-30 15:03:59,336 - INFO - POST /posts/create completed in 0.0042s
+2025-10-30 15:03:59,339 - INFO - 127.0.0.1:8878 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:04:02,164 - INFO - POST /posts/create completed in 0.0064s
+2025-10-30 15:04:02,170 - INFO - 127.0.0.1:8878 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:04:02,835 - INFO - POST /posts/create completed in 0.0038s
+2025-10-30 15:04:02,839 - INFO - 127.0.0.1:8878 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:04:25,541 - INFO - POST /posts/create completed in 0.0205s
+2025-10-30 15:04:25,543 - INFO - 127.0.0.1:8905 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:04:31,926 - INFO - POST /posts/create completed in 0.0242s
+2025-10-30 15:04:31,929 - INFO - 127.0.0.1:8925 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:04:40,306 - INFO - POST /posts/create completed in 0.0125s
+2025-10-30 15:04:40,309 - INFO - 127.0.0.1:8937 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 15:04:43,897 - INFO - GET /posts/all completed in 0.0440s
+2025-10-30 15:04:43,909 - INFO - 127.0.0.1:8937 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 15:05:04,759 - INFO - POST /posts/get completed in 0.0061s
+2025-10-30 15:05:04,789 - INFO - 127.0.0.1:4192 - "POST /posts/get HTTP/1.1" 200
+2025-10-30 15:05:07,975 - INFO - POST /posts/get completed in 0.0115s
+2025-10-30 15:05:07,998 - INFO - 127.0.0.1:4192 - "POST /posts/get HTTP/1.1" 200
+2025-10-30 15:12:04,155 - INFO - GET /posts/all completed in 0.0109s
+2025-10-30 15:12:04,157 - INFO - 127.0.0.1:8255 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 15:12:26,585 - INFO - POST /posts/get completed in 0.0093s
+2025-10-30 15:12:26,588 - INFO - 127.0.0.1:8273 - "POST /posts/get HTTP/1.1" 200
+2025-10-30 15:12:33,375 - INFO - POST /posts/update completed in 0.0179s
+2025-10-30 15:12:33,377 - INFO - 127.0.0.1:8281 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 15:12:40,673 - INFO - GET /posts/all completed in 0.0124s
+2025-10-30 15:12:40,677 - INFO - 127.0.0.1:8292 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 15:18:12,885 - INFO - POST /posts/delete completed in 0.0114s
+2025-10-30 15:18:12,888 - INFO - 127.0.0.1:13742 - "POST /posts/delete HTTP/1.1" 200
+2025-10-30 15:18:16,573 - INFO - GET /posts/all completed in 0.0063s
+2025-10-30 15:18:16,575 - INFO - 127.0.0.1:13742 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 15:29:59,833 - INFO - GET /posts/all completed in 0.0842s
+2025-10-30 15:29:59,843 - INFO - 127.0.0.1:3001 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 16:08:29,668 - INFO - GET /docs completed in 0.0002s
+2025-10-30 16:08:29,673 - INFO - 127.0.0.1:6544 - "GET /docs HTTP/1.1" 200
+2025-10-30 16:08:29,814 - INFO - GET /openapi.json completed in 0.0200s
+2025-10-30 16:08:29,816 - INFO - 127.0.0.1:6544 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 16:09:09,875 - INFO - GET /tags/all completed in 0.0006s
+2025-10-30 16:09:09,877 - INFO - 127.0.0.1:6578 - "GET /tags/all?skip=0&limit=10 HTTP/1.1" 403
+2025-10-30 16:11:05,680 - INFO - GET /tags/all completed in 0.1072s
+2025-10-30 16:11:05,682 - INFO - 127.0.0.1:6674 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 16:12:13,051 - INFO - GET /posts/all completed in 0.0088s
+2025-10-30 16:12:13,057 - INFO - 127.0.0.1:9153 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 16:15:36,631 - INFO - GET /users/all completed in 0.0063s
+2025-10-30 16:15:36,633 - INFO - 127.0.0.1:9583 - "GET /users/all HTTP/1.1" 200
+2025-10-30 16:17:18,991 - INFO - POST /posts/create completed in 0.0229s
+2025-10-30 16:17:18,993 - INFO - 127.0.0.1:9847 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 16:17:26,301 - INFO - POST /posts/create completed in 0.0114s
+2025-10-30 16:17:26,304 - INFO - 127.0.0.1:9856 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 16:17:35,205 - INFO - POST /posts/create completed in 0.0107s
+2025-10-30 16:17:35,207 - INFO - 127.0.0.1:9868 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 16:17:42,256 - INFO - POST /posts/create completed in 0.0104s
+2025-10-30 16:17:42,258 - INFO - 127.0.0.1:9880 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 16:18:00,449 - INFO - GET /posts/all completed in 0.0079s
+2025-10-30 16:18:00,451 - INFO - 127.0.0.1:9901 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 16:19:06,392 - INFO - GET /tags/all completed in 0.0045s
+2025-10-30 16:19:06,395 - INFO - 127.0.0.1:9995 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 16:20:15,681 - INFO - GET /posts/all completed in 0.0071s
+2025-10-30 16:20:15,683 - INFO - 127.0.0.1:10453 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 16:20:31,550 - INFO - POST /tags/create completed in 0.0059s
+2025-10-30 16:20:31,552 - INFO - 127.0.0.1:10478 - "POST /tags/create HTTP/1.1" 200
+2025-10-30 16:20:41,331 - INFO - POST /tags/create completed in 0.0197s
+2025-10-30 16:20:41,333 - INFO - 127.0.0.1:10501 - "POST /tags/create HTTP/1.1" 200
+2025-10-30 16:26:50,209 - INFO - GET /tags/all completed in 0.0110s
+2025-10-30 16:26:50,212 - INFO - 127.0.0.1:11478 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 16:27:22,517 - INFO - POST /tags/create completed in 0.0158s
+2025-10-30 16:27:22,519 - INFO - 127.0.0.1:11524 - "POST /tags/create HTTP/1.1" 200
+2025-10-30 16:27:25,782 - INFO - GET /tags/all completed in 0.0065s
+2025-10-30 16:27:25,784 - INFO - 127.0.0.1:11524 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 16:28:46,326 - INFO - POST /tags/get completed in 0.0060s
+2025-10-30 16:28:46,329 - INFO - 127.0.0.1:11600 - "POST /tags/get HTTP/1.1" 200
+2025-10-30 16:28:50,063 - INFO - POST /tags/get completed in 0.0083s
+2025-10-30 16:28:50,065 - INFO - 127.0.0.1:11600 - "POST /tags/get HTTP/1.1" 200
+2025-10-30 16:29:19,403 - INFO - POST /tags/update completed in 0.0048s
+2025-10-30 16:29:19,405 - INFO - 127.0.0.1:11637 - "POST /tags/update HTTP/1.1" 200
+2025-10-30 16:29:48,250 - INFO - POST /tags/update completed in 0.0172s
+2025-10-30 16:29:48,252 - INFO - 127.0.0.1:5448 - "POST /tags/update HTTP/1.1" 200
+2025-10-30 16:30:18,987 - INFO - POST /tags/update completed in 0.0167s
+2025-10-30 16:30:18,989 - INFO - 127.0.0.1:5566 - "POST /tags/update HTTP/1.1" 200
+2025-10-30 16:30:37,750 - INFO - POST /tags/delete completed in 0.0051s
+2025-10-30 16:30:37,752 - INFO - 127.0.0.1:5660 - "POST /tags/delete HTTP/1.1" 200
+2025-10-30 16:30:41,727 - INFO - POST /tags/delete completed in 0.0087s
+2025-10-30 16:30:41,728 - INFO - 127.0.0.1:5660 - "POST /tags/delete HTTP/1.1" 200
+2025-10-30 16:31:01,948 - INFO - GET /tags/all completed in 0.0064s
+2025-10-30 16:31:01,950 - INFO - 127.0.0.1:14564 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 16:31:11,989 - INFO - POST /tags/get completed in 0.0072s
+2025-10-30 16:31:11,991 - INFO - 127.0.0.1:14579 - "POST /tags/get HTTP/1.1" 200
+2025-10-30 16:31:16,057 - INFO - POST /tags/get completed in 0.0064s
+2025-10-30 16:31:16,060 - INFO - 127.0.0.1:14579 - "POST /tags/get HTTP/1.1" 200
+2025-10-30 17:03:26,832 - INFO - GET /docs completed in 0.0002s
+2025-10-30 17:03:26,837 - INFO - 127.0.0.1:6621 - "GET /docs HTTP/1.1" 200
+2025-10-30 17:03:26,980 - INFO - GET /openapi.json completed in 0.0179s
+2025-10-30 17:03:26,982 - INFO - 127.0.0.1:6621 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 17:03:32,967 - INFO - GET /docs completed in 0.0002s
+2025-10-30 17:03:32,970 - INFO - 127.0.0.1:6632 - "GET /docs HTTP/1.1" 200
+2025-10-30 17:03:33,047 - INFO - GET /openapi.json completed in 0.0003s
+2025-10-30 17:03:33,049 - INFO - 127.0.0.1:6633 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 17:03:39,781 - INFO - GET /docs completed in 0.0001s
+2025-10-30 17:03:39,784 - INFO - 127.0.0.1:6642 - "GET /docs HTTP/1.1" 200
+2025-10-30 17:03:39,863 - INFO - GET /openapi.json completed in 0.0003s
+2025-10-30 17:03:39,865 - INFO - 127.0.0.1:6644 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 21:12:26,402 - INFO - POST /auth/register completed in 0.1168s
+2025-10-30 21:12:26,418 - INFO - 127.0.0.1:4648 - "POST /auth/register HTTP/1.1" 200
+2025-10-30 21:13:11,714 - INFO - GET /users/all completed in 0.0183s
+2025-10-30 21:13:11,722 - INFO - 127.0.0.1:4785 - "GET /users/all HTTP/1.1" 200
+2025-10-30 21:13:51,486 - INFO - GET /docs completed in 0.0003s
+2025-10-30 21:13:51,488 - INFO - 127.0.0.1:4847 - "GET /docs HTTP/1.1" 200
+2025-10-30 21:13:55,204 - INFO - GET /openapi.json completed in 0.0217s
+2025-10-30 21:13:55,206 - INFO - 127.0.0.1:4876 - "GET /openapi.json HTTP/1.1" 200
+2025-10-30 21:15:08,690 - INFO - POST /users/update completed in 0.0054s
+2025-10-30 21:15:08,691 - INFO - 127.0.0.1:5016 - "POST /users/update HTTP/1.1" 422
+2025-10-30 21:15:39,561 - INFO - POST /users/create completed in 0.0060s
+2025-10-30 21:15:39,565 - INFO - 127.0.0.1:4684 - "POST /users/create HTTP/1.1" 200
+2025-10-30 21:15:54,204 - INFO - POST /users/create completed in 0.0556s
+2025-10-30 21:15:54,207 - INFO - 127.0.0.1:4765 - "POST /users/create HTTP/1.1" 200
+2025-10-30 21:16:15,353 - INFO - POST /users/create completed in 0.0528s
+2025-10-30 21:16:15,355 - INFO - 127.0.0.1:4814 - "POST /users/create HTTP/1.1" 200
+2025-10-30 21:16:17,388 - INFO - POST /users/create completed in 0.0051s
+2025-10-30 21:16:17,391 - INFO - 127.0.0.1:4814 - "POST /users/create HTTP/1.1" 200
+2025-10-30 21:16:46,814 - INFO - POST /users/update completed in 0.0055s
+2025-10-30 21:16:46,816 - INFO - 127.0.0.1:4925 - "POST /users/update HTTP/1.1" 200
+2025-10-30 21:16:54,791 - INFO - POST /users/update completed in 0.0132s
+2025-10-30 21:16:54,793 - INFO - 127.0.0.1:4948 - "POST /users/update HTTP/1.1" 200
+2025-10-30 21:17:07,854 - INFO - GET /users/all completed in 0.0060s
+2025-10-30 21:17:07,856 - INFO - 127.0.0.1:4975 - "GET /users/all HTTP/1.1" 200
+2025-10-30 21:17:41,506 - INFO - POST /users/create completed in 0.0557s
+2025-10-30 21:17:41,508 - INFO - 127.0.0.1:5088 - "POST /users/create HTTP/1.1" 200
+2025-10-30 21:17:47,819 - INFO - GET /users/all completed in 0.0061s
+2025-10-30 21:17:47,820 - INFO - 127.0.0.1:5106 - "GET /users/all HTTP/1.1" 200
+2025-10-30 21:17:59,522 - INFO - POST /users/delete completed in 0.0097s
+2025-10-30 21:17:59,525 - INFO - 127.0.0.1:5125 - "POST /users/delete HTTP/1.1" 200
+2025-10-30 21:18:01,917 - INFO - POST /users/delete completed in 0.0039s
+2025-10-30 21:18:01,920 - INFO - 127.0.0.1:5125 - "POST /users/delete HTTP/1.1" 200
+2025-10-30 21:18:04,525 - INFO - GET /users/all completed in 0.0058s
+2025-10-30 21:18:04,527 - INFO - 127.0.0.1:5125 - "GET /users/all HTTP/1.1" 200
+2025-10-30 21:18:41,344 - INFO - GET /posts/all completed in 0.0041s
+2025-10-30 21:18:41,347 - INFO - 127.0.0.1:5169 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:19:06,024 - INFO - POST /posts/create completed in 0.0139s
+2025-10-30 21:19:06,026 - INFO - 127.0.0.1:5209 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:19:13,783 - INFO - POST /posts/create completed in 0.0143s
+2025-10-30 21:19:13,785 - INFO - 127.0.0.1:12755 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:19:24,264 - INFO - GET /posts/all completed in 0.0092s
+2025-10-30 21:19:24,266 - INFO - 127.0.0.1:12767 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:19:36,798 - INFO - POST /posts/create completed in 0.0101s
+2025-10-30 21:19:36,800 - INFO - 127.0.0.1:12817 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:19:42,907 - INFO - POST /posts/create completed in 0.0102s
+2025-10-30 21:19:42,909 - INFO - 127.0.0.1:12854 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:19:51,191 - INFO - POST /posts/create completed in 0.0098s
+2025-10-30 21:19:51,193 - INFO - 127.0.0.1:12878 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:19:56,930 - INFO - POST /posts/create completed in 0.0105s
+2025-10-30 21:19:56,933 - INFO - 127.0.0.1:12901 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:19:58,711 - INFO - GET /posts/all completed in 0.0077s
+2025-10-30 21:19:58,713 - INFO - 127.0.0.1:12901 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:20:16,081 - INFO - POST /posts/get completed in 0.0079s
+2025-10-30 21:20:16,083 - INFO - 127.0.0.1:12933 - "POST /posts/get HTTP/1.1" 200
+2025-10-30 21:20:22,405 - INFO - POST /users/get completed in 0.0088s
+2025-10-30 21:20:22,407 - INFO - 127.0.0.1:12952 - "POST /users/get HTTP/1.1" 200
+2025-10-30 21:20:39,677 - INFO - POST /posts/create completed in 0.0098s
+2025-10-30 21:20:39,680 - INFO - 127.0.0.1:13002 - "POST /posts/create HTTP/1.1" 200
+2025-10-30 21:20:42,820 - INFO - GET /posts/all completed in 0.0074s
+2025-10-30 21:20:42,823 - INFO - 127.0.0.1:13002 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:20:57,889 - INFO - POST /posts/update completed in 0.0171s
+2025-10-30 21:20:57,891 - INFO - 127.0.0.1:13022 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:21:02,735 - INFO - POST /posts/update completed in 0.0048s
+2025-10-30 21:21:02,737 - INFO - 127.0.0.1:13022 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:21:07,818 - INFO - GET /posts/all completed in 0.0069s
+2025-10-30 21:21:07,820 - INFO - 127.0.0.1:13047 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:21:16,313 - INFO - POST /posts/delete completed in 0.0088s
+2025-10-30 21:21:16,315 - INFO - 127.0.0.1:13061 - "POST /posts/delete HTTP/1.1" 200
+2025-10-30 21:21:17,821 - INFO - POST /posts/delete completed in 0.0054s
+2025-10-30 21:21:17,823 - INFO - 127.0.0.1:13061 - "POST /posts/delete HTTP/1.1" 200
+2025-10-30 21:21:22,142 - INFO - GET /posts/all completed in 0.0070s
+2025-10-30 21:21:22,144 - INFO - 127.0.0.1:13061 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:35:13,373 - INFO - POST /posts/update completed in 0.0101s
+2025-10-30 21:35:13,384 - INFO - 127.0.0.1:1658 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:35:46,912 - INFO - POST /posts/update completed in 0.0097s
+2025-10-30 21:35:46,921 - INFO - 127.0.0.1:1709 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:35:53,845 - INFO - POST /posts/update completed in 0.0172s
+2025-10-30 21:35:53,847 - INFO - 127.0.0.1:1717 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:36:00,772 - INFO - POST /posts/update completed in 0.0100s
+2025-10-30 21:36:00,776 - INFO - 127.0.0.1:1728 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:36:43,828 - INFO - POST /posts/update completed in 0.0165s
+2025-10-30 21:36:43,834 - INFO - 127.0.0.1:1900 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:38:25,523 - INFO - POST /posts/update completed in 0.0256s
+2025-10-30 21:38:25,542 - INFO - 127.0.0.1:14988 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:43:22,936 - INFO - POST /posts/update completed in 0.0236s
+2025-10-30 21:43:22,942 - INFO - 127.0.0.1:14308 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:43:27,043 - INFO - GET /posts/all completed in 0.0082s
+2025-10-30 21:43:27,044 - INFO - 127.0.0.1:14308 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:53:10,342 - INFO - POST /posts/update completed in 0.0241s
+2025-10-30 21:53:10,352 - INFO - 127.0.0.1:5257 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:53:13,726 - INFO - POST /posts/update completed in 0.0154s
+2025-10-30 21:53:13,728 - INFO - 127.0.0.1:5257 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:53:18,024 - INFO - GET /posts/all completed in 0.0155s
+2025-10-30 21:53:18,034 - INFO - 127.0.0.1:5257 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:53:39,843 - INFO - POST /posts/update completed in 0.0073s
+2025-10-30 21:53:39,846 - INFO - 127.0.0.1:5303 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:53:46,605 - INFO - POST /posts/update completed in 0.0146s
+2025-10-30 21:53:46,607 - INFO - 127.0.0.1:5319 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:53:48,175 - INFO - POST /posts/update completed in 0.0114s
+2025-10-30 21:53:48,177 - INFO - 127.0.0.1:5319 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:53:49,963 - INFO - GET /posts/all completed in 0.0072s
+2025-10-30 21:53:49,965 - INFO - 127.0.0.1:5319 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:53:52,004 - INFO - GET /posts/all completed in 0.0096s
+2025-10-30 21:53:52,024 - INFO - 127.0.0.1:5319 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:54:08,051 - INFO - POST /posts/update completed in 0.0134s
+2025-10-30 21:54:08,053 - INFO - 127.0.0.1:5347 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:54:10,818 - INFO - GET /posts/all completed in 0.0069s
+2025-10-30 21:54:10,819 - INFO - 127.0.0.1:5347 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:54:25,244 - INFO - POST /posts/update completed in 0.0203s
+2025-10-30 21:54:25,253 - INFO - 127.0.0.1:5369 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:54:27,260 - INFO - GET /posts/all completed in 0.0072s
+2025-10-30 21:54:27,269 - INFO - 127.0.0.1:5369 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:54:53,547 - INFO - POST /auth/login completed in 0.0915s
+2025-10-30 21:54:53,550 - INFO - 127.0.0.1:5477 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 21:55:11,883 - INFO - POST /posts/update completed in 0.0076s
+2025-10-30 21:55:11,885 - INFO - 127.0.0.1:5521 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:55:33,231 - INFO - POST /posts/update completed in 0.0071s
+2025-10-30 21:55:33,233 - INFO - 127.0.0.1:5577 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:55:35,426 - INFO - POST /posts/update completed in 0.0162s
+2025-10-30 21:55:35,431 - INFO - 127.0.0.1:5577 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:55:40,816 - INFO - GET /posts/all completed in 0.0073s
+2025-10-30 21:55:40,818 - INFO - 127.0.0.1:5597 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:56:14,023 - INFO - POST /posts/update completed in 0.0126s
+2025-10-30 21:56:14,027 - INFO - 127.0.0.1:5655 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:56:16,246 - INFO - POST /posts/update completed in 0.0091s
+2025-10-30 21:56:16,251 - INFO - 127.0.0.1:5655 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:57:48,960 - INFO - POST /posts/update completed in 0.0252s
+2025-10-30 21:57:48,965 - INFO - 127.0.0.1:5815 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:57:50,947 - INFO - POST /posts/update completed in 0.0098s
+2025-10-30 21:57:50,949 - INFO - 127.0.0.1:5815 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:57:55,098 - INFO - POST /posts/update completed in 0.0767s
+2025-10-30 21:57:55,104 - INFO - 127.0.0.1:5815 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:57:58,334 - INFO - POST /posts/update completed in 0.0099s
+2025-10-30 21:57:58,340 - INFO - 127.0.0.1:5815 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 21:58:18,477 - INFO - GET /posts/all completed in 0.0089s
+2025-10-30 21:58:18,479 - INFO - 127.0.0.1:5911 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 21:59:53,471 - INFO - POST /posts/update completed in 0.0162s
+2025-10-30 21:59:53,477 - INFO - 127.0.0.1:6543 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:00:16,093 - INFO - POST /auth/login completed in 0.0494s
+2025-10-30 22:00:16,096 - INFO - 127.0.0.1:6593 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 22:00:38,452 - INFO - POST /posts/update completed in 0.0071s
+2025-10-30 22:00:38,454 - INFO - 127.0.0.1:6665 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:00:39,890 - INFO - POST /posts/update completed in 0.0074s
+2025-10-30 22:00:39,892 - INFO - 127.0.0.1:6665 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:00:47,773 - INFO - POST /posts/update completed in 0.0076s
+2025-10-30 22:00:47,775 - INFO - 127.0.0.1:6692 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:00:48,366 - INFO - POST /posts/update completed in 0.0081s
+2025-10-30 22:00:48,368 - INFO - 127.0.0.1:6692 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:00:48,979 - INFO - POST /posts/update completed in 0.0075s
+2025-10-30 22:00:48,982 - INFO - 127.0.0.1:6692 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:00:49,598 - INFO - POST /posts/update completed in 0.0075s
+2025-10-30 22:00:49,601 - INFO - 127.0.0.1:6692 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:05:17,319 - INFO - POST /posts/update completed in 0.0367s
+2025-10-30 22:05:17,332 - INFO - 127.0.0.1:10095 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:05:21,713 - INFO - GET /posts/all completed in 0.0165s
+2025-10-30 22:05:21,716 - INFO - 127.0.0.1:10095 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 22:05:37,256 - INFO - POST /posts/update completed in 0.0130s
+2025-10-30 22:05:37,258 - INFO - 127.0.0.1:10149 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:05:39,201 - INFO - POST /posts/update completed in 0.0105s
+2025-10-30 22:05:39,203 - INFO - 127.0.0.1:10149 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:05:44,140 - INFO - POST /posts/update completed in 0.0093s
+2025-10-30 22:05:44,146 - INFO - 127.0.0.1:10149 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:05:53,387 - INFO - POST /posts/update completed in 0.0173s
+2025-10-30 22:05:53,390 - INFO - 127.0.0.1:10241 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:05:56,284 - INFO - GET /posts/all completed in 0.0111s
+2025-10-30 22:05:56,290 - INFO - 127.0.0.1:10241 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 22:07:30,592 - INFO - POST /posts/update completed in 0.0133s
+2025-10-30 22:07:30,601 - INFO - 127.0.0.1:10748 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:10:00,043 - INFO - POST /auth/login completed in 0.1049s
+2025-10-30 22:10:00,049 - INFO - 127.0.0.1:8475 - "POST /auth/login HTTP/1.1" 200
+2025-10-30 22:10:26,682 - INFO - POST /posts/update completed in 0.0073s
+2025-10-30 22:10:26,690 - INFO - 127.0.0.1:8513 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:10:30,249 - INFO - POST /posts/update completed in 0.0105s
+2025-10-30 22:10:30,254 - INFO - 127.0.0.1:8513 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:10:34,772 - INFO - POST /posts/update completed in 0.0070s
+2025-10-30 22:10:34,789 - INFO - 127.0.0.1:8513 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:11:19,203 - INFO - POST /posts/update completed in 0.0220s
+2025-10-30 22:11:19,208 - INFO - 127.0.0.1:1303 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:11:20,804 - INFO - POST /posts/update completed in 0.0103s
+2025-10-30 22:11:20,806 - INFO - 127.0.0.1:1303 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:11:36,063 - INFO - POST /posts/update completed in 0.0101s
+2025-10-30 22:11:36,066 - INFO - 127.0.0.1:1327 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:11:39,891 - INFO - GET /posts/all completed in 0.0086s
+2025-10-30 22:11:39,893 - INFO - 127.0.0.1:1327 - "GET /posts/all HTTP/1.1" 200
+2025-10-30 22:11:51,032 - INFO - POST /posts/update completed in 0.0075s
+2025-10-30 22:11:51,034 - INFO - 127.0.0.1:1352 - "POST /posts/update HTTP/1.1" 200
+2025-10-30 22:26:54,259 - INFO - GET /tags/all completed in 0.0169s
+2025-10-30 22:26:54,269 - INFO - 127.0.0.1:3892 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 22:27:07,205 - INFO - POST /tags/create completed in 0.0244s
+2025-10-30 22:27:07,207 - INFO - 127.0.0.1:3906 - "POST /tags/create HTTP/1.1" 200
+2025-10-30 22:27:14,985 - INFO - POST /tags/create completed in 0.0144s
+2025-10-30 22:27:14,987 - INFO - 127.0.0.1:3916 - "POST /tags/create HTTP/1.1" 200
+2025-10-30 22:27:23,087 - INFO - POST /tags/create completed in 0.0211s
+2025-10-30 22:27:23,089 - INFO - 127.0.0.1:3923 - "POST /tags/create HTTP/1.1" 200
+2025-10-30 22:27:29,193 - INFO - GET /tags/all completed in 0.0087s
+2025-10-30 22:27:29,196 - INFO - 127.0.0.1:3930 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 22:27:46,019 - INFO - POST /tags/get completed in 0.0105s
+2025-10-30 22:27:46,031 - INFO - 127.0.0.1:3948 - "POST /tags/get HTTP/1.1" 200
+2025-10-30 22:27:51,454 - INFO - POST /posts/get completed in 0.0302s
+2025-10-30 22:27:51,459 - INFO - 127.0.0.1:12555 - "POST /posts/get HTTP/1.1" 200
+2025-10-30 22:28:06,567 - INFO - POST /tags/update completed in 0.0313s
+2025-10-30 22:28:06,569 - INFO - 127.0.0.1:12574 - "POST /tags/update HTTP/1.1" 200
+2025-10-30 22:28:10,353 - INFO - GET /tags/all completed in 0.0150s
+2025-10-30 22:28:10,365 - INFO - 127.0.0.1:12574 - "GET /tags/all HTTP/1.1" 200
+2025-10-30 22:28:23,241 - INFO - POST /tags/delete completed in 0.0102s
+2025-10-30 22:28:23,244 - INFO - 127.0.0.1:12588 - "POST /tags/delete HTTP/1.1" 200
+2025-10-30 22:28:24,859 - INFO - POST /tags/delete completed in 0.0050s
+2025-10-30 22:28:24,861 - INFO - 127.0.0.1:12588 - "POST /tags/delete HTTP/1.1" 200
+2025-10-30 22:28:33,330 - INFO - POST /tags/update completed in 0.0052s
+2025-10-30 22:28:33,335 - INFO - 127.0.0.1:12602 - "POST /tags/update HTTP/1.1" 200
